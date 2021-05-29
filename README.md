@@ -1,2 +1,2 @@
 # Andromeda-Akinator
-Akinator bot, just a speed code
+*Akinator bot, just a speed code*  
