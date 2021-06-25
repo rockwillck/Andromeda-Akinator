@@ -75,6 +75,9 @@ async def akiNator(ctx):
                     pass
             else:
                 q = aki.answer(userAnswer)
+        
+        await ctx.message.channel.trigger_typing()
+        await asyncio.sleep(5)
 
     aki.win()
 
